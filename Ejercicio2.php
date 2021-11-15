@@ -1,5 +1,5 @@
 <?php
-
+//esto es un comentario
 include 'head.php';
 echo '<h4>CLASIFICACIÓN LIGA BBVA</h4>';
   $equipo['Atletico']  = 90;  $equipo['Levante']= 48;
